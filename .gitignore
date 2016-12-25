@@ -1,0 +1,8 @@
+##Directory
+.svn/
+
+
+##Files
+*.dcu
+*.ddp
+*.exe
